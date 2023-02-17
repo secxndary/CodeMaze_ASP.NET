@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeMaze_CompanyEmployees.props" />
+</Project>

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jVxAtYjo386O6rp9sgH3LFM7s7j4KbCUd19zqE56YmZhK6ARFF26JGRL/qkXs8IVFnDLjQlwjsqdC2YiR09BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valda\\source\\repos\\WORK\\CodeMaze_CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valda\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\nlog.extensions.logging\\5.2.1\\nlog.extensions.logging.5.2.1.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\valda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

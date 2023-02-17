@@ -1,0 +1,15 @@
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\valda\source\repos\WORK\CodeMaze_CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll

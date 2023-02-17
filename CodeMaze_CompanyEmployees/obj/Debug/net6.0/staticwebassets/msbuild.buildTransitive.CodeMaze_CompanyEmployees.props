@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CodeMaze_CompanyEmployees.props" />
+</Project>
